@@ -1,0 +1,30 @@
+D:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\bin\Debug\211104_FileManager.exe.config
+D:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\bin\Debug\211104_FileManager.exe
+D:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\bin\Debug\211104_FileManager.pdb
+D:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.csproj.AssemblyReference.cache
+D:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\_211104_FileManager.FileManager.resources
+D:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\_211104_FileManager.Properties.Resources.resources
+D:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.csproj.GenerateResource.cache
+D:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.csproj.CoreCompileInputs.cache
+D:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.exe
+D:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.pdb
+F:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\bin\Debug\211104_FileManager.exe.config
+F:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\bin\Debug\211104_FileManager.exe
+F:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\bin\Debug\211104_FileManager.pdb
+F:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.csproj.AssemblyReference.cache
+F:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\_211104_FileManager.FileManager.resources
+F:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\_211104_FileManager.Properties.Resources.resources
+F:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.csproj.GenerateResource.cache
+F:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.csproj.CoreCompileInputs.cache
+F:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.exe
+F:\_C#\211104 WInForms fajlkezelo\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.pdb
+C:\Data\pers dev\IT\KKSZKI\C#\211104 WInForms fajlkezeles es LINQ\211104_FileManager\211104_FileManager\bin\Debug\211104_FileManager.exe.config
+C:\Data\pers dev\IT\KKSZKI\C#\211104 WInForms fajlkezeles es LINQ\211104_FileManager\211104_FileManager\bin\Debug\211104_FileManager.exe
+C:\Data\pers dev\IT\KKSZKI\C#\211104 WInForms fajlkezeles es LINQ\211104_FileManager\211104_FileManager\bin\Debug\211104_FileManager.pdb
+C:\Data\pers dev\IT\KKSZKI\C#\211104 WInForms fajlkezeles es LINQ\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.csproj.AssemblyReference.cache
+C:\Data\pers dev\IT\KKSZKI\C#\211104 WInForms fajlkezeles es LINQ\211104_FileManager\211104_FileManager\obj\Debug\_211104_FileManager.FileManager.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211104 WInForms fajlkezeles es LINQ\211104_FileManager\211104_FileManager\obj\Debug\_211104_FileManager.Properties.Resources.resources
+C:\Data\pers dev\IT\KKSZKI\C#\211104 WInForms fajlkezeles es LINQ\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.csproj.GenerateResource.cache
+C:\Data\pers dev\IT\KKSZKI\C#\211104 WInForms fajlkezeles es LINQ\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.csproj.CoreCompileInputs.cache
+C:\Data\pers dev\IT\KKSZKI\C#\211104 WInForms fajlkezeles es LINQ\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.exe
+C:\Data\pers dev\IT\KKSZKI\C#\211104 WInForms fajlkezeles es LINQ\211104_FileManager\211104_FileManager\obj\Debug\211104_FileManager.pdb
